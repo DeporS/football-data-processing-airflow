@@ -1,0 +1,6 @@
+com\example\bigdata\SumCount.class
+com\example\bigdata\AvgSizeStations$LeagueStatsCombiner.class
+com\example\bigdata\AvgSizeStations$LeagueStatsMapper.class
+com\example\bigdata\SumCountWritable.class
+com\example\bigdata\AvgSizeStations.class
+com\example\bigdata\AvgSizeStations$LeagueStatsReducer.class
